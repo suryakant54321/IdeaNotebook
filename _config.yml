@@ -1,0 +1,2 @@
+include: ["_sources", "_static"]
+exclude: ["some.md"]
