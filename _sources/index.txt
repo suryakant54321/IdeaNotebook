@@ -24,6 +24,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
+   idea1
+   idea2
    idea3
    idea4
 

@@ -1,0 +1,47 @@
+##	1: Python and R script to create the shapefiles / RDBMS SQL files from CSV files and pre-existing GIS layers 
+
+##### Application Domain
+
+- Open Source GIS
+
+##### Reasearch Domain
+
+- Open Source GIS
+
+##### Data Required
+
+- minimum sample CSV file with lat lon information.
+
+##### Synopsys
+
+1. The tool will add the attributes to the existing GIS layer 
+2. The tool will help the cases where same layer need to be updated again and again with more attributes
+3. The tool should be open source and handy
+4. Search: Quantum GIS may have a facility to merge the attribute table with .xls / .csv / .txt files
+
+
+##### Expected Deliverables :
+
+1. [Python CSV2SHP script]
+2. [R Script CSV 2 GeoTiff]
+3. [R Script process AndroSensor CSV]
+
+##### Status
+
+- CSV to point shapefile completed in Python and R.
+
+##### To do
+
+- Modifications as per need.
+
+##### Intellectual property details: 
+
+1. Author/s: Suryakant Sawant
+2. Date: Oct 9, 2016
+3. Details: Complete
+
+
+[Python CSV2SHP script]:<https://github.com/suryakant54321/R-Python-PHP-Scripts/blob/master/python/csv2shp/csv2shp.py>
+[R Script CSV 2 GeoTiff]:<https://github.com/suryakant54321/gsmCoverage/blob/master/csvToGeotiff.R> 
+[R Script process AndroSensor CSV]:<https://github.com/suryakant54321/R-Python-PHP-Scripts/blob/master/r/csv2shp/processAndroSensor.R>
+

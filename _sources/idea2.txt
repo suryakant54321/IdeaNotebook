@@ -1,0 +1,37 @@
+##	2: DSS based on spatial interpolation techniques for Crop Yield Estimation
+
+##### Application Domain
+
+- Agriculture / Horticulture
+- Machine Vision, 
+
+##### Reasearch Domain
+
+- Image Processing
+- Higher level Math
+
+##### Data Required
+
+- Satellite images
+
+##### Synopsys
+
+1. TBD
+
+##### Expected Deliverables :
+
+1. TBD
+
+##### Status
+
+- Idea
+
+##### To do
+
+- Expand and relate with time series of satellite observations
+
+##### Intellectual property details: 
+
+1. Author/s: Suryakant Sawant
+2. Date: Oct 9, 2016
+3. Details: 
