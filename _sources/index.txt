@@ -6,18 +6,34 @@
 Welcome to Idea Notebook
 *********************************************
 
-The Idea Notebook is list of novel project ideas and brief information about executing each idea.
+The Idea Notebook is list of novel project ideas with brief information about implementation and outcome.
 
-Each idea framework has following components.
+The details are described through following components.
 
-1. Title: 
+1. Title 
+
 2. Application Domain
-3. Reasearch Domain
-4. Synopsys:  
+	- area/s of application e.g. agriculture, remote sensing, GIS, etc.
+	
+3. Research Domain
+	- domain/s in which research will be required to achieve set objective 
+	
+4. Synopsys
+	- brief introduction / flowchart explaining about selected idea
+	
 5. Expected Deliverables
-6. Status:
-7. To do:
+	- list of deliverables / outcomes
+	
+6. Status
+	- current status of execution
+	- list of publications / link to software repository, etc.
+	
+7. To do
+	- list of set objectives to be completed while design / development / deployment phase
+	
 8. Intellectual property details:
+	- list of persons who contributed during conceptualization
+	- consists author/s, date and details
 
 Contents:
 
