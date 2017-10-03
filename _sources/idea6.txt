@@ -1,0 +1,37 @@
+## 6. Machine vision based crop pest/disease intensity prediction and geospatial analysis tool  
+
+###### Application Domain  
+- Agriculture / Entomology
+- Crop protection
+
+##### Reasearch Domain
+
+- Agriculture / Entomology
+
+##### Data / tools required
+
+- Image processing, Machine Learning
+- Spatial statistics
+	
+##### Synopsys
+
+
+##### Expected Deliverables
+
+1. Insect count
+2. Spatial and temporal insect variation
+3. Estimates of crop infection percentage and crop damage
+
+##### Status
+
+- Idea
+
+##### To do
+
+- Images of pheromone stickey traps
+- Enclosures 
+
+##### Intellectual property details  
+1. Author/s: Suryakant Sawant
+2. Date: 16 June 2013
+3. Details: 

@@ -1,0 +1,42 @@
+## 5.	Book on: Python for Agriculture Engineers 	
+
+###### Application Domain
+
+- Agriculture Engineering 	
+
+##### Reasearch Domain
+
+- Comp. Science	
+
+##### Data / tools required
+
+- Python
+
+##### Synopsys
+
+How Python programming can be easily utilized to address the design problems in Agril. Engg.  
+
+It can include topics such as, 
+1. Introduction and Basics of Python (programming and libraries) 
+2. Soil and water conservation modeling, Irrigation modeling and design 
+3. Drainage Modeling and Design aspects
+4. Geospatial Technologies and application for regional agricultural planning
+5. Sensor based applications for automation in agricultural engineering.  
+
+##### Expected Deliverables
+
+ 1.
+ 2.
+##### Status 
+
+- Idea
+
+##### To do
+
+- Document Python code snippets
+
+##### Intellectual property details:
+
+1. Author/s: Suryakant Sawant
+2. Date: 16 June 2016
+3. Details: 

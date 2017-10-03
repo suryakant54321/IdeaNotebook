@@ -20,7 +20,7 @@ Low cost open HW & SW based standardized, interoperable system and service.
 
 <add SenseTube images, list of publications, etc.>
 
-##### Expected Deliverables :
+##### Expected Deliverables
 
 1. Sensing and analysis platfrom
 2. Real time location based monitoring and agriculture management components for
@@ -37,7 +37,7 @@ Low cost open HW & SW based standardized, interoperable system and service.
 - Add UI/UX components
 - Finished product 
 
-##### Intellectual property details: 
+##### Intellectual property details  
 1. Author/s: Suryakant Sawant, Surya Durbha, J. Adinarayana
 2. Date: 16 June 2016
 3. Details: Indian patent pending

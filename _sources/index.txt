@@ -44,6 +44,8 @@ Contents:
    idea2
    idea3
    idea4
+   idea5
+   idea6
 
 Indices and tables
 ==================
